@@ -1,2 +1,5 @@
 # SLAC
-SLAC ideas.
+SLAC ideas
+Tools: Data science tools,(ML),Web dev.
+
+Team: Kaushik, Sriram, Ajith, Sreenivas.
