@@ -3,5 +3,5 @@
 2) The app gathers information about all the members of the family and when they reach a particular age suggest them to take that particular
 vaccine or might as well be when an individual hits puberty his body goes through a lot of changes and how to understand and overcome them 
 in old age what to do and what not to do.
-	2.1)gathers information and makes a statistics of what kind of disease a particular community is suffering and organising a 		    medicalcamp(eg:amrita college).
+	2.1)gathers information and makes a statistics of what kind of disease a particular community is suffering and organising a medicalcamp(eg: college).
 3)
