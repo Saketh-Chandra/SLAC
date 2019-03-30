@@ -1,0 +1,9 @@
+1) To get food to all those creatures out there who cannot afford or earn food for themselves. An app where a host of any particular ceremony or even the college mess notifies the app that there is lots of food leftover, and all that food is taken to a place and stored and served under hygienic to all the living creature.
+
+2) The app gathers information about all the members of the family and when they reach a particular age suggest them to take that particular
+vaccine or might as well be when an individual hits puberty his body goes through a lot of changes and how to understand and overcome them 
+in old age what to do and what not to do.
+	2.1)gathers information and makes a statistics of what kind of disease a particular community is suffering and organising a medicalcamp(eg: college).
+
+3)An app for poor wage workers (eg: cobblers) where they can be ordered for services. 
+4)To create an app that can track the location of the victim and the current location of the ambulance nearest to the victim in need,the ambulance here is GPS enabled,it is analogous to the swiggy app where it reaches the victim via the shortest route possible and then takes him to the nearest hospital in vicinity,thus maximising the chances of the victims survival.
